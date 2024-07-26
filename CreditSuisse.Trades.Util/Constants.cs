@@ -13,6 +13,7 @@
             public const string LOWRISK = "LOWRISK";
             public const string MEDIUMRISK = "MEDIUMRISK";
             public const string HIGHRISK = "HIGHRISK";
+            public const string NOTTHATHIGHRISK = "NOTTHATHIGHRISK";
         }
     }
 }

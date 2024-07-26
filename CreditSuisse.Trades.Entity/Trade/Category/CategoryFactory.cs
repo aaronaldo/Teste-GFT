@@ -9,6 +9,7 @@
             _categories.Add(new LowRisk());
             _categories.Add(new MediumRisk());
             _categories.Add(new HighRisk());
+            _categories.Add(new NotThatHighRisk());
         }
 
         public ITradeCategory GetCategory(ITrade trade)
